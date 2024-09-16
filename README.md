@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-dahiya" alt="vijay-dahiya" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin MultiPlatform**
 
 - 👨‍💻 All of my projects are available at [https://vijay.dorik.io/](https://vijay.dorik.io/)
 
